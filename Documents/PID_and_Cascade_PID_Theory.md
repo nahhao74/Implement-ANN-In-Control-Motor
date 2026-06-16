@@ -36,8 +36,8 @@ Basic closed-loop structure:
 
 ```text
 Setpoint r(t) ──► Error e(t) ──► Controller ──► Plant ──► Output y(t)
-      ▲                                                      │
-      └────────────────────── Feedback ◄─────────────────────┘
+                      ▲                                       │
+                      └──────────────── Feedback ◄────────────┘
 ```
 
 ---
