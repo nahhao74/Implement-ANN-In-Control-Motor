@@ -118,7 +118,7 @@ The NF5475 uses an optical incremental encoder.
 | Parameter | Value |
 |---|---|
 | Output phase | 2 phases |
-| Resolution options | 100 P/R or 200 P/R |
+| Resolution options | 200 P/R |
 | Supply voltage | 5 V |
 | Encoder current | Max 50 mA |
 | Frequency response | 10 kHz or 20 kHz |
